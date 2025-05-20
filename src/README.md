@@ -46,8 +46,8 @@
  - Take ownership of the following folders:
  
 	```
-	 %temp%\NLTmpMnt\ProgramData\Microsoft\User Account Pictures
-    %temp%\NLTmpMnt\Windows\Web
+     %temp%\NLTmpMnt\ProgramData\Microsoft\User Account Pictures
+     %temp%\NLTmpMnt\Windows\Web
 	```
 	
  - Search & delete for the following files in ``%temp%\NLTmpMnt\Windows`` with <a href="https://www.iobit.com/en/iobit-unlocker.php">IOBitUnlocker</a>
