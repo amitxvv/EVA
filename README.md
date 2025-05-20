@@ -46,7 +46,7 @@ EVA is an open source modification of the windows operating system which aims fo
 
   - Found a bug? want to suggest an improvement? want to leave a review? join the EVA discord & let me know!
 
-  - [Download EVA]()
+  - [Download EVA](https://drive.google.com/file/d/19lnTyzvyS-9-ImRitxEQAGCtD0PGfTiq/view?usp=sharing)
 
 ### Disclaimer
 
